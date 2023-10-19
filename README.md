@@ -1,7 +1,7 @@
 # L2G2L: a Scalable Local-to-Global Network Embedding with Graph Autoencoders
 
 INTRO:
-This project would provide codes for Local2GAE2Global (L2G2G) model, which is a scalable GAE approach combing the idea of local2global.
+This project would provide codes for Local2GAE2Global (L2G2G) model, which is a scalable GAE approach combing the idea of local2global. The related paper is now published on Complex Network 2023.
 
 For comparison, I've also provied the codes for GAE and GAE+L2G, which is based on or refers to https://github.com/LJeub/Local2Global.
 
